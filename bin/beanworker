@@ -1,4 +1,4 @@
-#!/usr/bin/env node
+#!/usr/bin/env nodejs
 
 var argv = require('yargs')
     .usage('Usage: beanworker --id=[ID] --config=[config.yml]')
